@@ -1,0 +1,6 @@
+EiMOSNanoShield-backups
+gerber
+*.lck
+EiMOSNanoShield.kicad_prl
+fp-info-cache
+fp-lib-table
