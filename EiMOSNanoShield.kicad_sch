@@ -6258,7 +6258,7 @@
 		)
 		(uuid "732403f9-2555-4485-99d4-2cedca64f3fe")
 	)
-	(label "D7"
+	(label "*D5"
 		(at 207.01 102.87 0)
 		(effects
 			(font
